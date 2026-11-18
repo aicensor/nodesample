@@ -27,6 +27,7 @@ sha256sum -c SHA256SUMS.txt
 | File | Size | Parts |
 |---|---|---|
 | xiaomi-work.rar | 433 MB | 5 |
+| 1117.zip | 47 MB | — |
 | cocos-lib.rar | 7.7 MB | — |
 | xiaomi-presentation/both-themes-tour.mp4 | 170 MB | 2 |
 | xiaomi-presentation/1-captain-cook-tour.mp4 | 86 MB | — |

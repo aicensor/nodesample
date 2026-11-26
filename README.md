@@ -32,3 +32,4 @@ sha256sum -c SHA256SUMS.txt
 | xiaomi-presentation/both-themes-tour.mp4 | 170 MB | 2 |
 | xiaomi-presentation/1-captain-cook-tour.mp4 | 86 MB | — |
 | xiaomi-presentation/2-bb24-tour.mp4 | 79 MB | — |
+| xiaomi-work1/ (6 files) | 79 MB | — |

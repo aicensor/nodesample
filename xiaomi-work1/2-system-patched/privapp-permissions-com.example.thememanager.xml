@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Install to /system/etc/permissions/ next to /system/priv-app/ThemeManager/.
+     Android refuses to boot if a privileged app asks for a privileged permission
+     that isn't listed here (ro.control_privapp_permissions=enforce). -->
+<permissions>
+    <privapp-permissions package="com.example.thememanager">
+        <permission name="android.permission.REBOOT" />
+        <!-- Applying a theme's home live wallpaper (MamlWallpaperService) without asking. -->
+        <permission name="android.permission.SET_WALLPAPER_COMPONENT" />
+    </privapp-permissions>
+</permissions>
